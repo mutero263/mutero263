@@ -15,7 +15,7 @@ Software Developer, Data Analyst
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
 </p>
 
-## 🌐 Socials
+##  Socials
 
 <p align="left"> 
   <a href="https://www.github.com/mutero263" target="_blank" rel="noreferrer">
@@ -34,27 +34,7 @@ Software Developer, Data Analyst
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mutero263&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=mutero263&theme=dark&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutero263&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mutero263&theme=darkhub&no-frame=true&column=4" alt="GitHub Trophies" />
-  
-</div>
+##  GitHub Stats
 
 <!-- Activity Graph -->
 <div align="center">
