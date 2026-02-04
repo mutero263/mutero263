@@ -21,6 +21,4 @@ Software Developer, Data Analyst
 
 ### My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app" alt="mutero263's GitHub Stats" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutero263)](https://github.com/mutero263/github-readme-stats)
