@@ -34,47 +34,29 @@ Software Developer, Data Analyst
   </a>
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mutero263&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Richard's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mutero263&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   
   <!-- Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=mutero263&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mutero263&theme=dark&hide_border=true" alt="GitHub Streak" />
   
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutero263&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-  <!-- Trophy Stats -->
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mutero263&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutero263&theme=github-dark&hide_border=true&area=true&height=300" alt="Activity Graph" />
-
 </div>
-
-## 📈 GitHub Contribution Stats
-
-<!-- Contribution Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mutero263&theme=github_dark" alt="Contribution Details" />
-</p>
 
 <div align="center">
   
-  <!-- More Detailed Stats in a Row -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mutero263&theme=github_dark" alt="Repos per Language" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mutero263&theme=github_dark" alt="Most Commit Language" width="45%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutero263&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mutero263&theme=darkhub&no-frame=true&column=4" alt="GitHub Trophies" />
   
 </div>
 
-## Additional Metrics
-
-<p align="center">
-  
-  <!-- Compact Stats Row -->
-  <img src="https://metrics.lecoq.io/mutero263?template=classic&isocalendar=1&languages=1&followup=1&introduction=1&achievements=1&notable=1&discussions=1&gists=1&lines=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=false&followup.sections=repositories&followup.indepth=false&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions=false&discussions.categories=true&discussions.limit=5&gists=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&repositories=false&repositories.featured=mutero263%2Fmutero263&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=Africa%2FHarare" alt="GitHub Metrics" width="100%" />
-  
-</p>
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutero263&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+</div>
